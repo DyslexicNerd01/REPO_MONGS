@@ -1,0 +1,17 @@
+{
+    "name": "REPO_MONGS",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/DyslexicNerd01/REPO_MONGS",
+    "description": "REPO Modpack for the MONGS",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Zehs-REPOLib-2.1.0",
+        "Zehs-ExtractionPointConfirmButton-1.1.0",
+        "nickklmao-MoreInventorySlots-1.0.2",
+        "w9atrid-NSFW_HentaiPaintings-1.1.2",
+        "UnderratedJunk-CustomPaintings-1.1.11",
+        "luxTeam-YouSpinMeRound_Music_Box-1.0.3",
+        "RoemisTeam-BlackBox-1.0.2",
+        "loaforc-loaforcsSoundAPI-2.0.6"
+    ]
+}
