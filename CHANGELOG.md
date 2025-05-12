@@ -1,6 +1,6 @@
 # **CHANGELOG**
 
- > Version 1.0.01
+ > Version 1.0.2
 
  - Removed NSFW Content
 
